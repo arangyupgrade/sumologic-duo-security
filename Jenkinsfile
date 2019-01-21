@@ -1,0 +1,6 @@
+standardPipeline {
+  standardNode {
+    checkoutStage {}
+    dockerBuildStage {}
+  }
+}
